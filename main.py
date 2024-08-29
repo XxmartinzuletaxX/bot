@@ -28,6 +28,6 @@ async def password(ctx):
     
 
     
-bot.run("MTI3NTk3ODI1MTU4MzM1Njk2OA.GglnaT.9Jrz0gSjeQWWgcspdLBTKDWnqXq-Un-5Xg3WJ0")
+
 
 
